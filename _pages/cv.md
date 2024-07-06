@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](https://dongqinz.github.io/files/CV Dongqin Zhou 2024.07.05.pdf)
+* [CV in PDF](https://dongqinzhou.github.io/files/CV Dongqin Zhou 2024.07.05.pdf)
 
 Education
 ======
