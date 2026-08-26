@@ -18,5 +18,6 @@ Education
 
 Work experience
 ======
-* 2024.6 - : Postdoc Research Fellow, Institute for Experiential AI, Northeastern University
+* 2026.8 - present: Postdoctoral Research Associate, Center for Advanced Infrastructure and Transportation, Rutgers University 
+* 2024.5 - 2026.5: Postdoctoral Research Fellow, Institute for Experiential AI, Northeastern University
   
